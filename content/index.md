@@ -1,3 +1,3 @@
 Witam w instrukcji do Tamashi
 
-[[!Przebieg tury]]
+[[Przebieg tury]]
