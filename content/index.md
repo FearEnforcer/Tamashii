@@ -1,4 +1,6 @@
-
+---
+title: Instrukcja Tamashii
+---
 
 Skorzystaj z wyszukiwarki, listy artykułów lub artykułów grupujących poniżej:
 
