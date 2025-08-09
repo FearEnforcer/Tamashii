@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "pl-PL",
     baseUrl: "fearenforcer.github.io/Tamashii",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
