@@ -6,7 +6,7 @@ Wybierz [[kafelek Dzielnicy]] znajdujący się w zasięgu ruchu twojego obecnego
 
 ---
 
-**W każdej turze podczas kroku Ruchu i Śledzenia** Gracz ma 1 okazję do przemieszczenia swojej postaci. Jeżeli zdecydujesz się przemieścićzacznij od sprawdzenia wartości cechy Ruch (RCH) swojego aktywnego Ciała. Określa ona maksymalną odległość, na jaką możesz się przemieścić, zaczynając od kafelka zajmowanego przez twoją postać. Aby wykonać ruch, wybierz kafelek Dzielnicy znajdujący się w zasięgu ruchu i umieść na nim swoją postać.
+**W każdej turze podczas kroku Ruchu i Śledzenia** Gracz ma 1 okazję do przemieszczenia swojej postaci. Jeżeli zdecydujesz się przemieścić zacznij od sprawdzenia wartości cechy Ruch (RCH) swojego aktywnego Ciała. Określa ona maksymalną odległość, na jaką możesz się przemieścić, zaczynając od kafelka zajmowanego przez twoją postać. Aby wykonać ruch, wybierz kafelek Dzielnicy znajdujący się w zasięgu ruchu i umieść na nim swoją postać.
 
 Zapamiętaj: zakryte kafelki Dzielnic ograniczają zasięg twojego ruchu. Możesz wejść na takie kafelki, ale nie możesz przez nie przechodzić. Oznacza to, że nawet jeśli twój RCH wynosi 3, ale wszystkie sąsiadujące kafelki są zakryte, możesz przemieścić się wyłącznie do sąsiedniej Dzielnicy, gdzie musisz zakończyć ruch. Kiedy wchodzisz na zakryty kafelek Dzielnicy, musisz zatrzymać się i odkryć go.
 
