@@ -1,6 +1,6 @@
 W dowolnej chwili podczas fazy Planowania możesz dokonać Rozwoju swojej postaci. Można to zrobić na kilka sposobów, poprzez: 
 -  Wydanie Pamięci (![[iPamiec.png]]): 
-	- Wydaj w puli neutralnej (Wyjątek: odrzucone żetony Danych Uszkodzonych) 1 jednostkę Pamięci, aby odrzucić 1 żeton Danych ze swojej Konsoli i umieścić go (NIE są odkładane do puli [[Dane Uszkodzone|Danych Uszkodzonych]] ![[iDaneUszkodzone.png]]
+	- Wydaj w puli neutralnej (Wyjątek: odrzucone [[żetony Danych]] Uszkodzonych) 1 jednostkę Pamięci, aby odrzucić 1 żeton Danych ze swojej Konsoli i umieścić go (NIE są odkładane do puli [[Dane Uszkodzone|Danych Uszkodzonych]] ![[iDaneUszkodzone.png]]
 	- Wydaj 1 jednostkę Pamięci, aby otrzymać 1 żeton Danych Podstawowych wybranego rodzaju ![[iDaneZielone.png]]/![[iDaneCzerwone.png]]/![[iDaneNieb.png]]/![[iDaneZolte.png]](umieść go na swoim kafelku Zrzutu). 
 	- Wydaj Pamięć, aby zainstalować [[Wzmocnienie]] (koszt Pamięci wskazany jest na każdej karcie Wzmocnienia). 
 -  Wymianę Wzmocnień Frakcji: możesz wymieniać się Wzmocnieniami Frakcji z innymi Graczami (niezależnie od waszego położenia na mapie!). Przy wymianie zainstalowane Wzmocnienia przestają być zainstalowane. Gracze nie mogą wymieniać między sobą Wzmocnień Klasy.
@@ -10,4 +10,4 @@ W dowolnej chwili podczas fazy Planowania możesz dokonać Rozwoju swojej postac
 	- Otrzymaj 1 żeton [[Dane Otwarte|Danych Otwartych]] ![[iDaneOtwarte.png]] i umieść go na swoim kafelku Zrzutu. 
 	- Dobierz 2 Wzmocnienia Klasy ze swojej talii Wzmocnień Klasy. Zatrzymaj jedno z nich, a drugie odłóż na spód talii.
 
->Możesz wydać całą swoją Pamięć i PD w jednej fazie Planowania, jeżeli masz taką ochotę. Opisane wyżej czynności możesz wykonać dowolną liczbę razy, jeżeli tylko posiadasz niezbędne ku temu zasoby.
+>Możesz wydać całą swoją Pamięć i PD w jednej fazie Planowania, jeżeli masz taką ochotę. Opisane wyżej czynności możesz wykonać dowolną liczbę razy, jeżeli tylko posiadasz niezbędne ku temu [[Zasoby]].

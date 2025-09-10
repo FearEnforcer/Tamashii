@@ -23,7 +23,7 @@
 
 6. możesz zastosować Odpędzenie, aby natychmiast odrzucić kartę Wroga, choć zwykle wiąże się to z jakąś karą. Pamiętaj, że Odpędzeni Wrogowie nie dają PD! 6a. **Efekty Odpędzenia** – zastosuj ten efekt, kiedy odpalasz Wzorzec po lewej stronie opisu.
 
-> UWAGA: Wzorce są odpalane wyłącznie podczas kroku Odpalania, nigdy w fazie Walki!
+> UWAGA: [[Wzorce]] są odpalane wyłącznie podczas kroku Odpalania, nigdy w fazie Walki!
 
 
 

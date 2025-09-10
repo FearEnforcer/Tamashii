@@ -1,7 +1,7 @@
 
 # Ruch
 
-Wybierz [[kafelek Dzielnicy]] znajdujący się w zasięgu ruchu twojego obecnego [[Ciało#**Ruch**|Ciała]] (RCH) i przemieść tam swoją postać.
+Wybierz [[Mapa#Kafelek dzielnicy]] znajdujący się w zasięgu ruchu twojego obecnego [[Ciało#**Ruch**|Ciała]] (RCH) i przemieść tam swoją postać.
 **Jeżeli wchodzisz na zakryty kafelek Dzielnicy, musisz zakończyć swój ruch** i odkryć ten kafelek 
 
 ---
@@ -14,10 +14,19 @@ Podczas odkrywania kafelka Dzielnicy zacznij od odkrycia (odwrócenia na drugą 
 
 Nie możesz przechodzić przez zakryte kafelki ani przez puste pola. 
 
+> _Ważne! Jeżeli_ **_odkryjesz_** _Kryjówkę Frakcji, wyjmij z pudełka odpowiadającą jej talię Wzmoc-_ _nień, przetasuj i umieść ją w obszarze gry!_
+
+Możesz też zdecydować, że nie chcesz **przemieszczać** **się** podczas kroku Ruchu i Śledzenia. W takim przypadku pozostaw swoją postać na kafelku Dzielnicy, na którym ona stoi _(pamiętaj, że za każdym razem, gdy_ _wspominany_ _jest_ _„bieżący_ _kafelek_ _Dzielnicy”_ _oznacza_ _on_ _kafelek,_ _na_ _którym_ _znajduje_ _się_ _dana_ _postać)_.
+
 # Śledzenie
 
-Kiedy skończysz swój ruch, musisz zwiększyć swoją wartość [[Śledzenie|Śledzenia]] o liczbę pól wskazaną przez Wejściową Wartość Śledzenia (na fioletowym tle) miejsca, w którym kończysz ruch. 
-Możesz też zdecydować się pozostać w miejscu. W takiej sytuacji zwiększ swoją wartość Śledzenia o liczbę pól wskazaną przez Stacjonarną Wartość Śledzenia (na czerwonym tle). 
+Kiedy skończysz swój ruch, musisz zwiększyć swoją wartość [[Śledzenie|Śledzenia]] o liczbę pól wskazaną przez [[Mapa#Kafelek dzielnicy|Wejściową Wartość Śledzenia]] (na fioletowym tle) miejsca, w którym kończysz ruch. 
+Możesz też zdecydować się pozostać w miejscu. W takiej sytuacji zwiększ swoją wartość Śledzenia o liczbę pól wskazaną przez [[Mapa#Kafelek dzielnicy|Stacjonarną Wartość Śledzenia]] (na czerwonym tle). 
 
 
-W jednym kroku Ruchu i Śledzenia można wykonać tylko jeden ruch. Jeżeli zwiększając swoją wartość Śledzenia przesuniesz znacznik na najwyższe pole, natychmiast dobierz i dołącz 2 karty Wrogów (patrz Dołączanie Wrogów, str. 12) i przesuń znacznik na pole 0 Toru Śledzenia!
+W jednym kroku Ruchu i Śledzenia można wykonać tylko jeden ruch. Jeżeli zwiększając swoją wartość Śledzenia przesuniesz znacznik na najwyższe pole, natychmiast dobierz i dołącz 2 karty Wrogów ( patrz: [[Wróg#Dołączanie Wrogów|Dołączanie wrogów]]) i przesuń znacznik na pole 0 [[Plansza gracza#Tor Śledzenia|Toru Śledzenia]]!
+
+
+> _Świat rojący się od dziesiątków sterowanych przez SI botów, starających się za wszelką cenę wpaść na Twój ślad, jest niebezpiecznym miejscem. Dlatego też nowe Dzielnice należy badać ostrożnie i nigdy nie wchodzić do nieznanych miejsc w pośpiechu._
+
+> _Z drugiej strony, tkwiąc zbyt długo w jednym miejscu, zwiększasz ryzyko wykrycia przez wrogów,_ _co oznacza, że pozostawanie w ruchu może znacząco ułatwić życie._

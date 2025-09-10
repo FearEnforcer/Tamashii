@@ -1,22 +1,22 @@
 # Dobierz/Otrzymaj żeton(y):
 
- Weź dany żeton z puli neutralnej i umieść go na swoim kafelku Zrzutu.
+ Weź dany żeton z puli neutralnej i umieść go na swoim kafelku [[Plansza gracza#Zrzut|Zrzutu]].
 
 # Dołącz:
 
- Umieść kartę Wroga obok swojej Planszy Gracza, na polu przeznaczonym dla kart Wrogów. Jeżeli już masz Wrogów dołączonych do swojej Planszy Gracza, umieść nową kartę Wroga pod kartami już dołączonymi, aby w pełni widoczna była lewa strona dołączonej karty.
+ Umieść kartę [[Wróg|Wroga]] obok swojej Planszy Gracza, na polu przeznaczonym dla kart Wrogów. Jeżeli już masz Wrogów dołączonych do swojej Planszy Gracza, umieść nową kartę Wroga pod kartami już dołączonymi, aby w pełni widoczna była lewa strona dołączonej karty.
 
 # Instalowanie:
 
- Zwykle w czasie Rozwoju. Wydaj ![[iPamiec.png]], aby aktywować jedną ze swoich niezainstalowanych kart Wzmocnień. Od tej chwili można korzystać z jej efektów (patrz str. 10).
+ Zwykle w czasie [[Rozwój|Rozwoju]]. Wydaj ![[iPamiec.png]], aby aktywować jedną ze swoich niezainstalowanych kart [[Wzmocnienie|Wzmocnień]]. Od tej chwili można korzystać z jej efektów.
 
 # Integralność:
 
- Reprezentuje więź z Ciałem. Kiedy spadnie do 0, należy przejść reset (patrz Reset, str. 13). Można ją traktować jako punkty życia / zdrowia / energii, ale utrata wszystkich nie oznacza przegranej w grze. Każdy Scenariusz posiada przypisaną pulę żetonów Danych Uszkodzonych, z której Gracz dobiera żetony po resecie. Kiedy pula ta ulegnie wyczerpaniu, Scenariusz automatycznie kończy się porażką. Wrogowie posiadają własną Integralność, oznaczoną innym symbolem niż Integralność Graczy. (Integralność Graczy – ![[iIntegralnoscGracz.png]]. Integralność Wroga – ![[iIntegralnoscWrog.png]]).
+ Reprezentuje więź z Ciałem. Kiedy spadnie do 0, należy przejść [[Reset]]. Można ją traktować jako punkty życia / zdrowia / energii, ale utrata wszystkich nie oznacza przegranej w grze. Każdy Scenariusz posiada przypisaną pulę żetonów Danych Uszkodzonych, z której Gracz dobiera żetony po resecie. Kiedy pula ta ulegnie wyczerpaniu, Scenariusz automatycznie kończy się porażką. Wrogowie posiadają własną Integralność, oznaczoną innym symbolem niż Integralność Graczy. (Integralność Graczy – ![[iIntegralnoscGracz.png]]. Integralność Wroga – ![[iIntegralnoscWrog.png]]).
 
 # Jednorazowe:
 
- Wyłącznie na kartach Wzmocnień Frakcji. Po użyciu takiej karty odrzuć ją. Nie może być ona użyta bądź uzyskana ponownie w tym samym Scenariuszu (patrz str. 10).
+ Wyłącznie na kartach [[Wzmocnienie|Wzmocnień]] Frakcji. Po użyciu takiej karty odrzuć ją. Nie może być ona użyta bądź uzyskana ponownie w tym samym Scenariuszu .
 
 # Odblokuj x:
 
@@ -24,11 +24,11 @@
 
 # Odkryj:
 
- Odwróć element awersem do góry. Odnosi się to do żetonów i kafelków Dzielnic. Jeżeli żeton lub Dzielnica są nieodkryte, oznacza to, że leżą awersem do dołu i Gracze nie widzą ich treści.
+ Odwróć element awersem do góry. Odnosi się to do żetonów i kafelków Dzielnic. Jeżeli żeton lub [[Dzielnica]] są nieodkryte, oznacza to, że leżą awersem do dołu i Gracze nie widzą ich treści.
 
 # Odpal:
 
- Zrzuć Wzorzec ze swojej Konsoli, aby zastosować jego efekt (patrz str. 7).
+ Zrzuć [[Wzorce|Wzorzec]] ze swojej [[Plansza gracza#Konsola|Konsoli]], aby zastosować jego efekt 
 
 # Odrzuć żeton(y):
 
@@ -44,11 +44,11 @@
 
 # Przygotuj x:
 
- Dobierz x żetonów Danych ze swojego Woreczka Danych i umieść je na dowolnych pustych polach swojej Konsoli. Zawsze należy dobrać wszystkie żetony przed rozpoczęciem ich umieszczania.
+ Dobierz x żetonów Danych ze swojego [[Woreczek danych i mechanika żetonów danych|Woreczka Danych]] i umieść je na dowolnych pustych polach swojej [[Plansza gracza#Konsola|Konsoli]]. Zawsze należy dobrać wszystkie żetony przed rozpoczęciem ich umieszczania.
 
 # Ruch:
 
- Przemieść swoją postać o x kafelków (gdzie x jest twoją wartością RCH) z kafelka bieżącej Dzielnicy.
+ Przemieść swoją postać o x kafelków (gdzie x jest twoją wartością RCH) z kafelka bieżącej [[Mapa#Kafelek dzielnicy|Dzielnicy]].
 
 # Strać x jedn. Zasobu/-ów:
 
@@ -68,11 +68,13 @@
 
 # Zajęcie:
 
- Rozpoczęcie korzystania z Ciała. Weź kartę danego Ciała Zaawansowanego i połóż ją na polu Ciała swojej Planszy Gracza (patrz str. 9).
+ Rozpoczęcie korzystania z Ciała. Weź kartę danego Ciała Zaawansowanego i połóż ją na polu Ciała swojej [[Plansza gracza|Planszy Gracza]].
 
 # Zaprogramuj x:
 
- Możesz przemieścić (przesunąć / zamienić miejscami) żetony Danych na Konsoli x razy.
+ Możesz przemieścić (przesunąć / zamienić miejscami) [[żetony Danych]] na Konsoli x razy.
+
+Patrz:[[Wzorce#Zaprogramuj]]
 
 # Zrzut żetonów:
 

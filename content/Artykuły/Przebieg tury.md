@@ -16,7 +16,7 @@ Następnie, podczas fazy Działania:
 - [[krok Ruchu i Śledzenia|przemieszczają się po mapie]],
 - [[krok Efektów Dzielnicy|korzystają z efektów kafelków Dzielnic]],
 - [[krok Odpalania|odpalają przygotowane Wzorce, by]]:
-    - zyskiwać Zasoby,
+    - zyskiwać [[Zasoby]],
     - hakować wrogie boty,
     - wykorzystywać potężne wzmocnienia,
     - robić inne rzeczy.
