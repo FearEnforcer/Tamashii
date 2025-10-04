@@ -37,7 +37,7 @@ Moc można wykorzystywać do zwiększania swoich szans w Walce. Zanim **rzucisz*
 Przerzut wykorzystywany jest do zmiany wyniku różnych akcji podejmowanych przez Graczy podczas rozgrywki. Po wykonaniu rzutu kością można przerzucić 1 ![[iKoscGraczy.png]] za każdą **wydaną** jednostkę Przerzutu _(tj._ _jeżeli_ _wydasz_ _3_ ![[iPrzerzut.png]] _możesz_ _przerzucić_ _3_ ![[iKoscGraczy.png]] użyte do jednego rzutu)_. Przerzuty można wykorzystać w następujących sytuacjach:
 
 - Podczas swojego [[krok Rzutu na Śledzenie|Rzutu na Śledzenie]].
-- Podczas swojego [[Walka|Rzutu na Atak]].
+- Podczas swojego [[Faza Walki|Rzutu na Atak]].
 - Przy wszystkich efektach wykorzystujących , takich jak Rzuty związane ze Wzmocnieniami, Testami bądź Scenariuszem.
 
 **Przy każdym Rzucie można wydać jednostki Przerzutów _(dowolnej liczby kości)_ tylko raz, ale ich wyda- nie nie wpływa na inne efekty prowadzące do przerzucania kości _(np. możliwe jest użycie Wzmocnienia pozwalającego na_ _przerzucenie_ _kości w czasie [[krok Rzutu na Śledzenie|Rzutu na Śledzenie]], a następnie_ _wydanie_ _1 jednostki Przerzutu, aby_ _przerzucić_ _tę kością)_.**

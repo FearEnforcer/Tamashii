@@ -12,7 +12,7 @@
 
 # Integralność:
 
- Reprezentuje więź z Ciałem. Kiedy spadnie do 0, należy przejść [[Reset]]. Można ją traktować jako punkty życia / zdrowia / energii, ale utrata wszystkich nie oznacza przegranej w grze. Każdy Scenariusz posiada przypisaną pulę żetonów Danych Uszkodzonych, z której Gracz dobiera żetony po resecie. Kiedy pula ta ulegnie wyczerpaniu, Scenariusz automatycznie kończy się porażką. Wrogowie posiadają własną Integralność, oznaczoną innym symbolem niż Integralność Graczy. (Integralność Graczy – ![[iIntegralnoscGracz.png]]. Integralność Wroga – ![[iIntegralnoscWrog.png]]).
+ Reprezentuje więź z Ciałem. Kiedy spadnie do 0, należy przejść [[Reset]]. Można ją traktować jako punkty życia / zdrowia / energii, ale utrata wszystkich nie oznacza przegranej w grze. Każdy [[Scenariusz]] posiada przypisaną pulę żetonów Danych Uszkodzonych, z której Gracz dobiera żetony po resecie. Kiedy pula ta ulegnie wyczerpaniu, [[Scenariusz]] automatycznie kończy się porażką. Wrogowie posiadają własną Integralność, oznaczoną innym symbolem niż Integralność Graczy. (Integralność Graczy – ![[iIntegralnoscGracz.png]]. Integralność Wroga – ![[iIntegralnoscWrog.png]]).
 
 # Jednorazowe:
 

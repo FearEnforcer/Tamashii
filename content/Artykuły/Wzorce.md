@@ -42,7 +42,7 @@ Istnieje 9 Wzorców Podstawowych, które wszyscy Gracze mogą **odpalić** w dow
 
 ![[iDaneNieb.png]]![[iDaneZolte.png]]![[iDaneZielone.png]]![[iDaneCzerwone.png]]= **Otrzymujesz** 1 żeton Doświadczenia (![[iDoswiadczenie.png]]).
 
-Eksplorując świat _Tamashii_, znajdziesz wiele innych Wzorców, dostępnych na kartach Wrogów, Wzmoc- nień Frakcji, Scenariuszy, Protokołu Nauczania itd.
+Eksplorując świat _Tamashii_, znajdziesz wiele innych Wzorców, dostępnych na kartach [[Wróg|Wrogów]], [[Wzmocnienie|Wzmocnień]] Frakcji, [[Karta scenariusza|Scenariuszy]], [[Protokół nauczania|Protokołu Nauczania]] itd.
 
 # **Odpalanie** **Wzorców**
 

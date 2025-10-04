@@ -22,11 +22,11 @@ Wszyscy Gracze rozpoczynają grę mając dostęp do zwykłego **Ciała Wędrowca
 
 # **Programowanie**
 
- 6. Liczba ruchów (przesunięć i zamian), które można wykonać na Konsoli podczas kroku Programowania.
+ 6. Liczba ruchów (przesunięć i zamian), które można wykonać na Konsoli podczas [[krok Programowania|kroku Programowania]].
 
 # **Koszt**
 
-7. Wzorzec, który należy odpalić w celu zajęcia danego Ciała znajdującego się na Rynku Ciał.
+7. [[Wzorce|Wzorzec]], który należy odpalić w celu zajęcia danego Ciała znajdującego się na Rynku Ciał.
 
 
 

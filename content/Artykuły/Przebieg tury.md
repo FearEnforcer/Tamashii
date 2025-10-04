@@ -25,11 +25,11 @@ Następnie, podczas fazy Działania:
 
 Następnie przychodzi kolej na fazę Walki, podczas której Gracze:
 
-- [[Walka|stawiają czoła SI]].
+- [[Faza Walki|stawiają czoła SI]].
 
 # Faza zadań
 
-Na koniec, po zakończeniu powyższych trzech faz, nadchodzi czas na fazę Zadań, w której Gracze:
+Na koniec, po zakończeniu powyższych trzech faz, nadchodzi czas na [[Faza Zadań|fazę Zadań]], w której Gracze:
 
 - odnotowują postępy względem swoich bieżących celów — w tej fazie fabuła gry ulega rozwojowi,
 - otrzymują nagrody za osiągnięte cele,

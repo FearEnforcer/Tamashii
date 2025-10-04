@@ -1,0 +1,3 @@
+- Weź liczbę ![[iKoscGraczy.png]] równą wartości [[Ciało#*Atak|ATK]] swojego [[Ciało|Ciała]]. Następnie weź 2 (1 numeryczną [[Kości Wrogów|kość _Wroga]] i 1 kość symboli Wroga).
+- Możesz *wydać* swoją [[Zasoby#Moc ! iMoc.png|Moc]] ( ![[iMoc.png]] ), aby dodać 1 ![[iKoscGraczy.png]] za każdą *wydaną* jednostkę  ![[iMoc.png]].
+- **Rzuć* wszystkimi kośćmi (możesz wydać [[Zasoby#Przerzut ! iPrzerzut.png|przerzut]] ![[iPrzerzut.png]], aby zmienić wynik rzutu), a następnie rozpatrz wynik zgodnie z krokami opisanymi niżej.

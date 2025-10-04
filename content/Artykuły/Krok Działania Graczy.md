@@ -1,0 +1,3 @@
+podczas tego kroku wszyscy Gracze mogą przyczyniać się do osiągnięcia celu opisanego na aktywnej karcie Scenariusza, wykonując akcje opisane w sekcji
+
+„Działania Graczy”. Mogą one być bardzo różne, od zebrania się w jednym miejscu, przez wykonane Testu, **zrzucenie** żetonów lub odrzucenie żetonów Ascendu z mapy, aż po ostateczne **pokonanie** Bossa. Jeżeli na aktywnej karcie Scenariusza nie ma sekcji „Działania Gracza”, krok ten jest pomijany _(chociaż działania takie mogą znajdować się też na Arkuszu Scenariusza, więc_ _upewnij się, że faktycznie należy pominąć ten krok!)_.

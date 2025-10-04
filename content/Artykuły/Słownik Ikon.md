@@ -30,7 +30,7 @@ Wykorzystywane we [[Wzorce|Wzorcach]]
 
  Istnieją dwa ich rodzaje:
 
- kość symboli Wrogów i kość numeryczna. Zwykle używane podczas [[Walka|Walki]] do rozstrzygania Ataków Wrogów.
+ kość symboli Wrogów i kość numeryczna. Zwykle używane podczas [[Faza Walki|Walki]] do rozstrzygania Ataków Wrogów.
 
 # ![[iKoscGraczy.png]] Kość sześciościenna Gracza:
 
@@ -73,6 +73,8 @@ Wykorzystywane we [[Wzorce|Wzorcach]]
 # ![[iZetonAscendu.png]], ![[iTajemnica.png]], ![[iSukces.png]]  Żetony do zaznaczania zjawisk w grze. 
 
 Dokładne znaczenie każdego z tych żetonów opisane jest w Scenariuszu.
+
+
 
 # ![[iZetonEksploracji.png]] Żetony Eksploracji
 

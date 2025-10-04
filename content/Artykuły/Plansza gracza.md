@@ -33,6 +33,6 @@ Plansza Gracza jest czymś w rodzaju centrum sterowania wszystkimi działaniami 
 
 # Miejsca na karty
 
-8. **Miejsce na [[karta Wzmocnienia|karty Wzmocnienia]]**: Miejsce na zainstalowane karty Wzmocnienia.
+8. **Miejsce na [[Wzmocnienie|karty Wzmocnienia]]**: Miejsce na zainstalowane karty Wzmocnienia.
 9. **Miejsce na [[Protokół nauczania|karty Protokołu Nauczania]]**: Miejsce na kartę Protokołu Nauczania.
 10. **Miejsce na karty Wrogów**: Miejsce na dołączone karty Wrogów.

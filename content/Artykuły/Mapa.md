@@ -1,6 +1,6 @@
 # Kafelek dzielnicy
 
-Mapa w grze _Tamashii_ składa się z kafelków Dzielnic reprezentujących fragmenty futurystycznych miast i przedmieść, w których rozgrywane są Scenariusze. Każda z postaci Graczy _(reprezentowana przez figurkę)_ musi zawsze znajdować się w ściśle określonej Dzielnicy.
+Mapa w grze _Tamashii_ składa się z kafelków Dzielnic reprezentujących fragmenty futurystycznych miast i przedmieść, w których rozgrywane są [[Scenariusz|Scenariusze]]. Każda z postaci Graczy _(reprezentowana przez figurkę)_ musi zawsze znajdować się w ściśle określonej Dzielnicy.
 
 ![[Obraz kafelek dzielnicy.png]]
 

@@ -15,9 +15,9 @@ W grze **Tamashii** używa się 6 rodzajów żetonów Danych: 4 rodzajów żeton
 ![[iDaneUszkodzone.png]] 
 Są to niechciane Dane, które Gracze najczęściej otrzymują po resecie bądź użyciu efektu Odpędzenia Wrogów. Żetony takie można też czasem otrzymać na skutek nieudanej próby osiągnięcia celu w Scenariuszu.
 
-Żetony Danych Uszkodzonych blokują pola Danych na Konsolach Graczy. [[Wzorce]] zwykle nie korzystają z Danych Uszkodzonych. Co więcej, każdy Scenariusz posiada przypisaną pulę Danych Uszkodzonych (przechowywanych na Torze Czasu).
+Żetony Danych Uszkodzonych blokują pola Danych na Konsolach Graczy. [[Wzorce]] zwykle nie korzystają z Danych Uszkodzonych. Co więcej, każdy [[Scenariusz]] posiada przypisaną pulę Danych Uszkodzonych (przechowywanych na Torze Czasu).
 
-Kiedy Gracze wyczerpią dostępne żetony, a zasady każą im dobrać kolejny, należy sprawdzić sekcję Zasad Specjalnych na Arkuszu Scenariusza (w takiej sytuacji Scenariusz zwykle kończy się porażką).
+Kiedy Gracze wyczerpią dostępne żetony, a zasady każą im dobrać kolejny, należy sprawdzić sekcję Zasad Specjalnych na Arkuszu Scenariusza (w takiej sytuacji [[Scenariusz]] zwykle kończy się porażką).
 
 >  Trzy bardzo ważne zasady dotyczące żetonów Danych Uszkodzonych:
 >  

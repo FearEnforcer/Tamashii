@@ -1,5 +1,7 @@
 ![[iZetonEksploracji.png]] 
-**Żetony Eksploracji** to jednorazowe premie otrzymywane przez Gracza, który **odkryje** zakryty kafelek Dzielnicy. W czasie przygotowywania każdego Scenariusza żetony te są rozdysponowywane, zakryte, pomiędzy wskazane kafelki Dzielnic. Kiedy przemieszczasz się na kafelek z żetonem Eksploracji, **odkryj** i rozpatrz efekt tego żetonu:
+**Żetony Eksploracji** to jednorazowe premie otrzymywane przez Gracza, który **odkryje** zakryty [[Mapa#Kafelek dzielnicy|kafelek Dzielnicy]]]. W czasie przygotowywania każdego Scenariusza żetony te są rozdysponowywane, zakryte, pomiędzy wskazane kafelki Dzielnic.
+
+Kiedy przemieszczasz się na kafelek z żetonem Eksploracji, **odkryj** i rozpatrz efekt tego żetonu:
 
 ![[iEksploracjaPunktyDoswiadczenia.png]]– otrzymujesz 1 PD ( ![[iDoswiadczenie.png]]). 
 ![[iEksploracjaDanePodstawowe.png]]– otrzymujesz 1 żeton Danych Podstawowych wybranego rodzaju (![[iDaneZielone.png]] / ![[iDaneCzerwone.png]] / ![[iDaneNieb.png]] / ![[iDaneZolte.png]]). 

@@ -1,7 +1,7 @@
 
 # Ruch
 
-Wybierz [[Mapa#Kafelek dzielnicy]] znajdujący się w zasięgu ruchu twojego obecnego [[Ciało#**Ruch**|Ciała]] (RCH) i przemieść tam swoją postać.
+Wybierz [[Mapa#Kafelek dzielnicy|Kafelek dzielnicy]] znajdujący się w zasięgu ruchu twojego obecnego [[Ciało#**Ruch**|Ciała]] (RCH) i przemieść tam swoją postać.
 **Jeżeli wchodzisz na zakryty kafelek Dzielnicy, musisz zakończyć swój ruch** i odkryć ten kafelek 
 
 ---

@@ -8,10 +8,10 @@ _Zapamiętaj: jeżeli zasady na kartach Wzmocnień są sprzeczne z zasadami pods
 1. Nazwa
 2. Czas aktywacji
 3. **Efekt Wzmocnienia**: może także określać, kiedy dane Wzmocnienie może być użyte. Pamiętaj, że decyzja o skorzystaniu ze Wzmocnienia zawsze należy do Gracza.
-4. **Koszt [[[[Zasoby]]#**Pamięć** ! iPamiec.png|Pamięci]]**: jeżeli chcesz **zainstalować** dane Wzmocnienie, musisz wydać taką liczbę jednostek	![[iPamiec.png]]. Używać można wyłącznie Wzmocnień, które zostały w ten sposób [[Rozwój|zainstalowane]]
-5. [[Klasa]]/[[Frakcja]]: każde Wzmocnienie jest przypisane do konkretnej Klasy bądź może być uzy- skane od konkretnej Frakcji.
+4. **Koszt pamięci  : jeżeli chcesz **zainstalować** dane Wzmocnienie, musisz wydać taką liczbę jednostek	![[iPamiec.png]]. Używać można wyłącznie Wzmocnień, które zostały w ten sposób [[Rozwój|zainstalowane]]
+5. [[Klasa]]/[[Frakcja]]: każde Wzmocnienie jest przypisane do konkretnej Klasy bądź może być uzyskane od konkretnej Frakcji.
 6. [[Wzorce|Wzorzec:]] Wzorzec, który należy odpalić, aby wykorzystać efekt danego Wzmocnienia. [[Wzorce]] występują wyłącznie na kartach Wzmocnień Frakcji.
-7. **Schemat Bojowy:** niektóre Wzmocnienia mogą być aktywowane za pomocą symboli z ![[iKoscGraczy.png]]podczas fazy Walki. Schematy Bojowe występują wyłącznie na kartach Wzmocnień Klasy
+7. **Schemat Bojowy:** niektóre Wzmocnienia mogą być aktywowane za pomocą symboli z ![[iKoscGraczy.png]]podczas fazy Walki. [[Schematy bojowe]] występują wyłącznie na kartach Wzmocnień Klasy
 
 
 # Wzmocnienia Klasy oraz Wzmocnienia frakcji

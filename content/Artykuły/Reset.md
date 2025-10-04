@@ -1,4 +1,4 @@
-Kiedy twoja **Integralność** zmniejszy się do 0, musisz rozegrać **reset**. Resetowanie, choć wygląda niewesoło, **jest naturalną częścią gry** i może zdarzać się dość często w dowolnym Scenariuszu. Kiedy przeprowadzasz reset, wykonaj poniższe czynności:
+Kiedy twoja **Integralność** zmniejszy się do 0, musisz rozegrać **reset**. Resetowanie, choć wygląda niewesoło, **jest naturalną częścią gry** i może zdarzać się dość często w dowolnym [[Scenariusz|Scenariuszu]]. Kiedy przeprowadzasz reset, wykonaj poniższe czynności:
 
 - Rzuć 1 kostką z symbolami Wroga. 
 	- Jeżeli wynikiem rzutu jest ![[iSchematPodstawowy.png]]odrzuć swoje aktywne **[[Ciało]]** (jeżeli posiadasz kartę Ciała) i umieść je na spodzie talii Ciał. Jeżeli posiadasz inną aktywną kartę Ciała, staje się ona twoim aktywnym Ciałem. W takiej sytuacji zamień odpowiadającą figurkę na właściwą. Jeżeli nie posiadasz żadnej karty Ciała, wracasz do **podstawowego Ciała** opisanego na Planszy Gracza. 

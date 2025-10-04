@@ -1,0 +1,1 @@
+podczas tego kroku, Gracz, który obecnie posiada żeton Pierwszego Gracza, przekazuje go osobie po swojej lewej stronie _(czyli pierwsi Gracze zmieniają się w kierunku zgodnym z ruchem wskazówek zegara)_. Następnie Gracze przechodzą do kolejnej tury rozpoczynającej się kolejną fazą Planowania.
